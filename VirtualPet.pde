@@ -3,7 +3,6 @@ size(400,400);
 background(179,242,255);
 }
 void draw(){
-
 fill(128,42,0);
 noStroke();
 ellipse(110,100,75,75); //left ear
